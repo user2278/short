@@ -1,0 +1,12 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 170px;
+  font-size: 2.3rem;
+}
+span{
+  font-size: 2.5rem;
+  font-style: bold;
+  font-weight: bold;
+}
